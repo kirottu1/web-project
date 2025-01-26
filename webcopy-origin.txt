@@ -1,0 +1,680 @@
+Uri: https://www.coin24exchange.online/
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\index.htm
+Content Type: text/html
+
+Uri: https://www.coin24exchange.online/6535921070-2/feed/index.htm
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\6535921070-2\feed\index.htm
+Content Type: text/html
+
+Uri: https://www.coin24exchange.online/6535921070-2/index2.htm
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\6535921070-2\index2.htm
+Content Type: text/html
+
+Uri: https://www.coin24exchange.online/css-1?family=Play:400,700&display=swap&subset=cyrillic,cyrillic-ext
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\css-1
+Content Type: 
+
+Uri: https://www.coin24exchange.online/css-2?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&subset=cyrillic,cyrillic-ext,latin-ext
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\css-2
+Content Type: 
+
+Uri: https://www.coin24exchange.online/css-3?family=Play:400,700&display=swap&subset=cyrillic,cyrillic-ext
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\css-3
+Content Type: 
+
+Uri: https://www.coin24exchange.online/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&subset=cyrillic,cyrillic-ext,latin-ext
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\css
+Content Type: 
+
+Uri: https://www.coin24exchange.online/gh/fancyapps/fancybox%403.5.7/dist/jquery.fancybox.min-1.css
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\gh\fancyapps\fancybox@3.5.7\dist\jquery.fancybox.min-1.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/gh/fancyapps/fancybox%403.5.7/dist/jquery.fancybox.min-1.js
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\gh\fancyapps\fancybox@3.5.7\dist\jquery.fancybox.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/gh/fancyapps/fancybox%403.5.7/dist/jquery.fancybox.min.css
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\gh\fancyapps\fancybox@3.5.7\dist\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/gh/fancyapps/fancybox%403.5.7/dist/jquery.fancybox.min.js
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\gh\fancyapps\fancybox@3.5.7\dist\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/index.html
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\index.html
+Content Type: text/html
+
+Uri: https://www.coin24exchange.online/kontakty/index.htm
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\kontakty\index.htm
+Content Type: text/html
+
+Uri: https://www.coin24exchange.online/kontakty/index.htm?p=17
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\kontakty\index-1.htm
+Content Type: text/html
+
+Uri: https://www.coin24exchange.online/polzovatelyam/index.htm
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\polzovatelyam\index.htm
+Content Type: text/html
+
+Uri: https://www.coin24exchange.online/polzovatelyam/index.htm?p=209
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\polzovatelyam\index-1.htm
+Content Type: text/html
+
+Uri: https://www.coin24exchange.online/pravila-obmena/index.htm
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\pravila-obmena\index.htm
+Content Type: text/html
+
+Uri: https://www.coin24exchange.online/pravila-obmena/index.htm?p=207
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\pravila-obmena\index-1.htm
+Content Type: text/html
+
+Uri: https://www.coin24exchange.online/wp-content/plugins/contact-form-7/includes/css/styles-1.css?ver=5.5.6
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\plugins\contact-form-7\includes\css\styles-1.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/plugins/contact-form-7/includes/js/index-1.js?ver=5.5.6
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\plugins\contact-form-7\includes\js\index-1.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.6.3
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\plugins\gravityforms\assets\css\dist\basic.min.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=2.6.3
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\plugins\gravityforms\assets\css\dist\theme-components.min.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/plugins/gravityforms/assets/css/dist/theme-ie11.min.css?ver=2.6.3
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\plugins\gravityforms\assets\css\dist\theme-ie11.min.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.6.3
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\plugins\gravityforms\assets\css\dist\theme.min.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/plugins/gravityforms/fonts/gform-icons-theme.svg
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\plugins\gravityforms\fonts\gform-icons-theme.svg
+Content Type: image/svg+xml
+
+Uri: https://www.coin24exchange.online/wp-content/plugins/gravityforms/fonts/gform-icons-theme.ttf
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\plugins\gravityforms\fonts\gform-icons-theme.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.coin24exchange.online/wp-content/plugins/gravityforms/fonts/gform-icons-theme.woff
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\plugins\gravityforms\fonts\gform-icons-theme.woff
+Content Type: application/font-woff
+
+Uri: https://www.coin24exchange.online/wp-content/plugins/gravityforms/fonts/gform-icons-theme.woff2
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\plugins\gravityforms\fonts\gform-icons-theme.woff2
+Content Type: 
+
+Uri: https://www.coin24exchange.online/wp-content/plugins/gravityforms/images/gf-creditcards-check.svg
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\plugins\gravityforms\images\gf-creditcards-check.svg
+Content Type: image/svg+xml
+
+Uri: https://www.coin24exchange.online/wp-content/plugins/gravityforms/images/gf-creditcards.svg
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\plugins\gravityforms\images\gf-creditcards.svg
+Content Type: image/svg+xml
+
+Uri: https://www.coin24exchange.online/wp-content/plugins/gravityforms/images/list-add.svg
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\plugins\gravityforms\images\list-add.svg
+Content Type: image/svg+xml
+
+Uri: https://www.coin24exchange.online/wp-content/plugins/gravityforms/images/list-remove.svg
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\plugins\gravityforms\images\list-remove.svg
+Content Type: image/svg+xml
+
+Uri: https://www.coin24exchange.online/wp-content/plugins/gravityforms/images/theme/down-arrow.svg
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\plugins\gravityforms\images\theme\down-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.coin24exchange.online/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.6.3
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\plugins\gravityforms\js\gravityforms.min.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.6.3
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\plugins\gravityforms\js\jquery.json.min.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-content/plugins/gravityforms/legacy/css/chosen-sprite.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\plugins\gravityforms\legacy\css\chosen-sprite.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/plugins/gravityforms/legacy/css/chosen-sprite@2x.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\plugins\gravityforms\legacy\css\chosen-sprite@2x.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/css/forms-1.css
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\css\forms-1.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/css/forms-2.css
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\css\forms-2.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/css/mybootstrap-1.css
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\css\mybootstrap-1.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/css/mybootstrap-2.css
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\css\mybootstrap-2.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/css/reset-1.css
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\css\reset-1.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/css/reset-2.css
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\css\reset-2.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/css/slider-1.css
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\css\slider-1.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/css/slider-2.css
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\css\slider-2.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/font-awesome/css/font-awesome-1.css
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\font-awesome\css\font-awesome-1.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/font-awesome/css/font-awesome-2.css
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\font-awesome\css\font-awesome-2.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/font-awesome/fonts/fontawesome-webfont-1.svg
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\font-awesome\fonts\fontawesome-webfont-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/font-awesome/fonts/fontawesome-webfont-1.ttf
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\font-awesome\fonts\fontawesome-webfont-1.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/font-awesome/fonts/fontawesome-webfont-1.woff
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\font-awesome\fonts\fontawesome-webfont-1.woff
+Content Type: application/font-woff
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/font-awesome/fonts/fontawesome-webfont-1.woff2
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\font-awesome\fonts\fontawesome-webfont-1.woff2
+Content Type: 
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/font-awesome/fonts/fontawesome-webfont-2.eot
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\font-awesome\fonts\fontawesome-webfont-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/font-awesome/fonts/fontawesome-webfont-3.eot
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\font-awesome\fonts\fontawesome-webfont-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/font-awesome/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/font-awesome/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/font-awesome/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/font-awesome/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/img/close-img-1.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\img\close-img-1.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/img/close-img.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\img\close-img.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/img/to-top-1.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\img\to-top-1.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/img/to-top.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\img\to-top.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/img/waitorder-1.svg
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\img\waitorder-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/js/jquery-3.2.1-1.js
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\js\jquery-3.2.1-1.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/js/jquery-3.2.1-2.js
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\js\jquery-3.2.1-2.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/js/jquery.maskedinput.min-1.js
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\js\jquery.maskedinput.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/js/jquery.maskedinput.min-2.js
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\js\jquery.maskedinput.min-2.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/js/menu-1.js
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\js\menu-1.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/js/menu-2.js
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\js\menu-2.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/slick/ajax-loader-1.gif
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\slick\ajax-loader-1.gif
+Content Type: image/gif
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/slick/ajax-loader.gif
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/slick/fonts/slick-1.svg
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\slick\fonts\slick-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/slick/fonts/slick-1.ttf
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\slick\fonts\slick-1.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/slick/fonts/slick-1.woff
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\slick\fonts\slick-1.woff
+Content Type: application/font-woff
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/slick/fonts/slick-2.eot
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\slick\fonts\slick-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/slick/fonts/slick-3.eot
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\slick\fonts\slick-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/slick/fonts/slick.eot
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\slick\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/slick/fonts/slick.eot?
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\slick\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/slick/fonts/slick.svg
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\slick\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/slick/fonts/slick.ttf
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\slick\fonts\slick.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/slick/fonts/slick.woff
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\slick\fonts\slick.woff
+Content Type: application/font-woff
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/slick/slick-1.css
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\slick\slick-1.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/slick/slick-2.css
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\slick\slick-2.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/slick/slick-theme-1.css
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\slick\slick-theme-1.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/slick/slick-theme-2.css
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\slick\slick-theme-2.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/slick/slick.min-1.js
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\slick\slick.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/slick/slick.min-2.js
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\slick\slick.min-2.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/style-1.css
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\style-1.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/themes/burum/style-2.css
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\themes\burum\style-2.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/04/bestchange-1.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\04\bestchange-1.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/04/bestchange.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\04\bestchange.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/04/bitcoinbtc_1607281332.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\04\bitcoinbtc_1607281332.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/04/chek.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\04\chek.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/04/oschadbank_1621771304.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\04\oschadbank_1621771304.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/04/telegram-white-1.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\04\telegram-white-1.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/04/telegram-white.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\04\telegram-white.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/04/telegram.jpg
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\04\telegram.jpg
+Content Type: image/jpeg
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/04/tg-1.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\04\tg-1.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/04/tg.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\04\tg.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/1958_1621849326.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\1958_1621849326.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/500px-Binance.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\500px-Binance.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/alfa_16072859904.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\alfa_16072859904.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/background.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\background.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/Blockchain.com_new_logo.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\Blockchain.com_new_logo.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/BUoD-ORKHMk.jpg
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\BUoD-ORKHMk.jpg
+Content Type: image/jpeg
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/buy-with-card.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\buy-with-card.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/cardano_1621771160.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\cardano_1621771160.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/close-1.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\close-1.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/close.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\close.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/complate-step.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\complate-step.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/dogecoindoge_1607284896.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\dogecoindoge_1607284896.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/eos-logo-vector.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\eos-logo-vector.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/ethereumeth_1607284009.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\ethereumeth_1607284009.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/favicon-1.jpg
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\favicon-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/favicon.jpg
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\favicon.jpg
+Content Type: image/jpeg
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/icon_sber-01.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\icon_sber-01.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/kisspng-ripple-cryptocurrency-exchange-investor-blockchain-5afc090ea32540.2105706115264668306683-removebg-preview.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\kisspng-ripple-cryptocurrency-exchange-investor-blockchain-5afc090ea32540.2105706115264668306683-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/litecoinltc_1607284440.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\litecoinltc_1607284440.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/logo-8322-1.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\logo-8322-1.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/logo-8322.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\logo-8322.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/menu-1.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\menu-1.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/menu.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\menu.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/monobank_1621771860.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\monobank_1621771860.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/Privat24_Logo.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\Privat24_Logo.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/pumb_1621770840.svg
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\pumb_1621770840.svg
+Content Type: image/svg+xml
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/raiffeisen_1621771454.svg
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\raiffeisen_1621771454.svg
+Content Type: image/svg+xml
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/shiba-inu-shib-logo-9542F950B0-seeklogo.com_.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\shiba-inu-shib-logo-9542F950B0-seeklogo.com_.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/stellarxlm_1607284178.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\stellarxlm_1607284178.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/tether-usdt-logo_1607514459.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\tether-usdt-logo_1607514459.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/ukrsibbank_1621771560.svg
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\ukrsibbank_1621771560.svg
+Content Type: image/svg+xml
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/Unknown-26.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\Unknown-26.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/unnamed-18.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\unnamed-18.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/unnamed-19.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\unnamed-19.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/visamastercard_1621770275.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\visamastercard_1621770275.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-content/uploads/2022/05/vtb24_1607286347-2.png
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-content\uploads\2022\05\vtb24_1607286347-2.png
+Content Type: image/png
+
+Uri: https://www.coin24exchange.online/wp-includes/css/dist/block-library/style.min-1.css?ver=5.9.3
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-includes/css/dist/block-library/style.min.css?ver=5.9.3
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.coin24exchange.online/wp-includes/js/dist/a11y.min.js?ver=68e470cf840f69530e9db3be229ad4b6
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-includes\js\dist\a11y.min.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-includes/js/dist/dom-ready.min.js?ver=ecda74de0221e1c2ce5c57cbb5af09d5
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-includes\js\dist\dom-ready.min.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-includes/js/dist/hooks.min.js?ver=1e58c8c5a32b2e97491080c5b10dc71c
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-includes/js/dist/i18n.min.js?ver=30fcecb428a0e8383d3776bcdd3a7834
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-includes/js/dist/vendor/regenerator-runtime.min-1.js?ver=0.13.9
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-includes\js\dist\vendor\regenerator-runtime.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-includes/js/dist/vendor/wp-polyfill.min-1.js?ver=3.15.0
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-includes\js\dist\vendor\wp-polyfill.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.coin24exchange.online/wp-includes/wlwmanifest-1.xml
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-includes\wlwmanifest-1.xml
+Content Type: text/xml
+
+Uri: https://www.coin24exchange.online/wp-includes/wlwmanifest.xml
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://www.coin24exchange.online/wp-json/index-1.htm
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-json\index-1.htm
+Content Type: text/html
+
+Uri: https://www.coin24exchange.online/wp-json/index.htm
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-json\index.htm
+Content Type: text/html
+
+Uri: https://www.coin24exchange.online/wp-json/oembed/1.0/embed-1?url=https:%2F%2Fcoin24.exchange%2F&format=xml
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.coin24exchange.online/wp-json/oembed/1.0/embed-2?url=https:%2F%2Fcoin24.exchange%2Fpolzovatelyam%2F
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-json\oembed\1.0\embed-2
+Content Type: 
+
+Uri: https://www.coin24exchange.online/wp-json/oembed/1.0/embed-3?url=https:%2F%2Fcoin24.exchange%2Fpolzovatelyam%2F&format=xml
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://www.coin24exchange.online/wp-json/oembed/1.0/embed-4?url=https:%2F%2Fcoin24.exchange%2Fpravila-obmena%2F
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-json\oembed\1.0\embed-4
+Content Type: 
+
+Uri: https://www.coin24exchange.online/wp-json/oembed/1.0/embed-5?url=https:%2F%2Fcoin24.exchange%2Fpravila-obmena%2F&format=xml
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://www.coin24exchange.online/wp-json/oembed/1.0/embed-6?url=https:%2F%2Fcoin24.exchange%2Fkontakty%2F
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-json\oembed\1.0\embed-6
+Content Type: 
+
+Uri: https://www.coin24exchange.online/wp-json/oembed/1.0/embed-7?url=https:%2F%2Fcoin24.exchange%2Fkontakty%2F&format=xml
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://www.coin24exchange.online/wp-json/oembed/1.0/embed-8?url=https:%2F%2Fcoin24.exchange%2F6535921070-2%2F
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-json\oembed\1.0\embed-8
+Content Type: 
+
+Uri: https://www.coin24exchange.online/wp-json/oembed/1.0/embed-9?url=https:%2F%2Fcoin24.exchange%2F6535921070-2%2F&format=xml
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://www.coin24exchange.online/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoin24.exchange%2F
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-json\oembed\1.0\embed
+Content Type: 
+
+Uri: https://www.coin24exchange.online/wp-json/wp/v2/pages/17
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-json\wp\v2\pages\17
+Content Type: 
+
+Uri: https://www.coin24exchange.online/wp-json/wp/v2/pages/207
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-json\wp\v2\pages\207
+Content Type: 
+
+Uri: https://www.coin24exchange.online/wp-json/wp/v2/pages/209
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-json\wp\v2\pages\209
+Content Type: text/plain
+
+Uri: https://www.coin24exchange.online/wp-json/wp/v2/pages/7
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-json\wp\v2\pages\7
+Content Type: text/plain
+
+Uri: https://www.coin24exchange.online/wp-json/wp/v2/posts/646
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\wp-json\wp\v2\posts\646
+Content Type: text/plain
+
+Uri: https://www.coin24exchange.online/xmlrpc-1.php?rsd
+File Name: A:\StatIns\siteexch\www.coin24exchange.online\www.coin24exchange.online\xmlrpc-1.php.html
+Content Type: text/html
+
